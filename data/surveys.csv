@@ -1,0 +1,8 @@
+survey_id,ticket_id,rating,comment
+S101,T001,5,Excellent and fast service!
+S102,T002,3,The issue was fixed but response was slow.
+S103,T004,5,David was very helpful with the bug.
+S104,T006,4,Quick fix.
+S105,T007,2,Took way too long to resolve my billing issue.
+S106,T008,5,Professional and polite.
+S107,T010,5,Super fast security resolution.

@@ -1,0 +1,6 @@
+customer_id,name,segment,joined_at
+5001,TechCorp Inc,VIP,2023-01-15 00:00:00
+5002,Alice Johnson,Standard,2023-05-22 00:00:00
+5003,Bobs Burgers,Standard,2024-02-10 00:00:00
+5004,Global Logistics,VIP,2022-11-30 00:00:00
+5005,Skyline Ltd,Standard,2023-08-12 00:00:00
