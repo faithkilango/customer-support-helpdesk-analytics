@@ -4,9 +4,9 @@
 This project focuses on analyzing support ticket data to improve helpdesk efficiency and customer satisfaction. Using SQL, I tracked key performance indicators (KPIs) like resolution time, agent productivity, and SLA compliance.
 
 ## 🛠️ Tools Used
-- **SQL:** For data extraction and KPI calculation.
-- **Data Source:** Simulated helpdesk database (Tickets, Agents, Surveys).
-- **Visualization:** Powerbi.
+- **SQL(BigQuery):** For data extraction and KPI calculation.
+- **Data Source:** Simulated helpdesk database (Tickets, Agents, Surveys,customers).
+- **Visualization:** PowerBi.
 
 ## 📊 Key Business Questions Answered
 1. **Efficiency:** What is the average resolution time per ticket priority?
