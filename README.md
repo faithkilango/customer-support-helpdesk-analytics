@@ -1,2 +1,15 @@
 # customer-support-helpdesk-analytics
-SQL-based analysis of support tickets, agent performance and CSAT to improve helpdesk operations
+
+## 🎯 Project Overview
+This project focuses on analyzing support ticket data to improve helpdesk efficiency and customer satisfaction. Using SQL, I tracked key performance indicators (KPIs) like resolution time, agent productivity, and SLA compliance.
+
+## 🛠️ Tools Used
+- **SQL:** For data extraction and KPI calculation.
+- **Data Source:** Simulated helpdesk database (Tickets, Agents, Surveys).
+- **Visualization:** Powerbi.
+
+## 📊 Key Business Questions Answered
+1. **Efficiency:** What is the average resolution time per ticket priority?
+2. **Performance:** Which agents are meeting their CSAT targets?
+3. **Volume:** Which categories (e.g., Billing, Tech) drive the most tickets?
+4. **SLA:** What percentage of high-priority tickets are resolved within 24 hours?
